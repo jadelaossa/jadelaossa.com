@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Javier de la Ossa</title>
+    <link>https://jadelaossa.com/categories/</link>
+    <description>Recent content in Categories on Javier de la Ossa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Javier de la Ossa</copyright>
+    <lastBuildDate>Fri, 10 Mar 2023 18:43:19 +0100</lastBuildDate><atom:link href="https://jadelaossa.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>published</title>
+      <link>https://jadelaossa.com/categories/published/</link>
+      <pubDate>Fri, 10 Mar 2023 18:43:19 +0100</pubDate>
+      
+      <guid>https://jadelaossa.com/categories/published/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://jadelaossa.com/categories/test/</link>
+      <pubDate>Fri, 10 Mar 2023 18:43:19 +0100</pubDate>
+      
+      <guid>https://jadelaossa.com/categories/test/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
